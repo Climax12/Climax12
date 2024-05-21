@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Climax12
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The term "computer bug" was popularized by Grace Hopper, who found a moth in Harvard's Mark II computer in 19474.
