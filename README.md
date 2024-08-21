@@ -5,6 +5,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Climax12&theme=material&hide_border=true&border_radius=0&mode=weekly&background=90%2C000000%2C03009C)](https://git.io/streak-stats)
 
-              - name: GitHub Readme YouTube Cards
-                uses: DenverCoder1/github-readme-youtube-cards@1.8.0
-                        
