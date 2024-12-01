@@ -1,5 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=climax12&color=7b94dc" alt="PF Viwes"> <p/>
-  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=7000&pause=1000&color=0D00E6&vCenter=true&repeat=false&width=435&lines=Hi%2C+I+am+Climax)](https://git.io/typing-svg)
 <hr>
 <ul>
