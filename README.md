@@ -8,4 +8,4 @@
 
 <br>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gray-psi.vercel.app?user=Climax12&theme=material&border_radius=12&mode=weekly&background=90%2C000000%2C470000&border=000125&ring=EA0000&fire=EB2D2D&currStreakNum=EBEBEB&stroke=31EB00&sideNums=EBEBEB&currStreakLabel=FF0000&sideLabels=EB752A&dates=EBEBEB&excludeDaysLabel=EBEBEB" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gray-psi.vercel.app?user=climax12&theme=github-dark&border_radius=12&short_numbers=true&mode=weekly&border=18709F&ring=02007E&fire=47D926&dates=00A6FF&stroke=47D926" alt="GitHub Streak" /></a>
