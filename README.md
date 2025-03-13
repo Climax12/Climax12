@@ -8,4 +8,4 @@
 
 <br>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gray-psi.vercel.app?user=climax12&theme=github-dark&border_radius=12&short_numbers=true&mode=weekly&border=18709F&ring=02007E&fire=47D926&dates=00A6FF&stroke=47D926" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats-gray-psi.vercel.app?user=climax12&theme=github-dark&border_radius=12&short_numbers=true&mode=weekly&border=18709F&ring=02007E&fire=47D926&dates=00A6FF&stroke=47D926" alt="GitHub Streak" />
