@@ -8,4 +8,4 @@
 <hr>
 <br>
 
-<img src="https://lastfm-recently-played.vercel.app/api?user=Climax12&show_user=header&loved=true&bg_color=15181D&loved_style=2&footer_style=compact_stats" style=" padding:2px; border:thin solid #FFFFFF;" alt="Last.fm Now playing"/>
+<img src="https://lastfm-recently-played.vercel.app/api?user=Climax12&show_user=header&loved=true&bg_color=15181D&loved_style=2&footer_style=compact_stats&count=2" style=" padding:2px; border:thin solid #FFFFFF;" alt="Last.fm Now playing"/>
