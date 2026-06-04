@@ -1,5 +1,8 @@
+---
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=7000&pause=1000&color=0D00E6&vCenter=true&repeat=false&width=435&lines=Hi%2C+I+am+Climax)
 
+---
 
 ## About me:
 
@@ -35,3 +38,10 @@
 
 ![Last.fm Now playing](https://lastfm-recently-played.vercel.app/api?user=Climax12&show_user=header&loved=true&bg_color=15181D&loved_style=2&footer_style=compact_stats&count=2)
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Climax12&abbreviated=true&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
