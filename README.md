@@ -1,6 +1,9 @@
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=7000&pause=1000&color=0D00E6&vCenter=true&repeat=false&width=435&lines=Hi%2C+I+am+Climax)
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+Climax!;Hello%2C+I'm+Climax!;Howdy%2C+I'm+Climax!;Yo%2C+I'm+Climax!;%F0%9F%91%8B%2C+I'm+Climax!;Bonjour%2C+I'm+Climax!;Ciao%2C+I'm+Climax!;Hola%2C+I'm+Climax!" alt="Typing SVG" />
+</p>
 
 ---
 
