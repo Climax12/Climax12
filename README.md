@@ -10,8 +10,9 @@
 ## About me:
 
 + 😄 Pronouns: He/Him
-+ ⚡ Fun fact: The term "computer bug" was popularized by Grace Hopper, who found a moth in Harvard's Mark II computer in 1947. 
 + 🔭 I’m currently working on **none**
++ ⚡ Fun fact: The term "computer bug" was popularized by Grace Hopper, who found a moth in Harvard's Mark II computer in 1947. 
+
 
 
 ## Tools I use:
