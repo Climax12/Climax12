@@ -25,18 +25,18 @@
 
 ## GitHub:
 
-<div>
+<div align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&duration=1&pause=1&color=B2FFFD&vCenter=true&repeat=false&width=435&lines=GitHub+Streak" alt="Typing SVG" />
+  <br>
+  <a align="right">
+    <img src="https://github-readme-streak-stats-gray-psi.vercel.app/?user=Climax12&theme=transparent&hide_border=true&short_numbers=true&stroke=317775&ring=97d9d8&fire=37fff9&sideNums=36bcf7&sideLabels=acf7f5&dates=acf7f5" alt="GitHub Streak" />
+  </a>
+</div>
+<div align="center">
   <img src="https://github-readme-stats-swart-delta.vercel.app/api?username=Climax12&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=b2fffd&text_color=36bcf7&icon_color=37fff9&theme=transparent" alt="GitHub Stats" />
   <img src="https://github-readme-stats-swart-delta.vercel.app/api/top-langs/?username=Climax12&layout=compact&hide_border=true&title_color=b2fffd&text_color=36bcf7&icon_color=37fff9&theme=transparent" alt="Top Languages" />
 </div>
 
-<div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&duration=1&pause=1&color=B2FFFD&vCenter=true&repeat=false&width=435&lines=GitHub+Streak" alt="Typing SVG" />
-  <br>
-  <a align="left">
-    <img src="https://github-readme-streak-stats-gray-psi.vercel.app/?user=Climax12&theme=transparent&hide_border=true&short_numbers=true&stroke=317775&ring=97d9d8&fire=37fff9&sideNums=36bcf7&sideLabels=acf7f5&dates=acf7f5" alt="GitHub Streak" />
-  </a>
-</div>
 
 ## Listening Now:
 
